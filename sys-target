@@ -1,0 +1,2 @@
+ls -l /sbin/init
+sudo systemctl get-default
